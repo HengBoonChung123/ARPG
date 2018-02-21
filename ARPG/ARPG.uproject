@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A20D5438-4F6C-038B-083D-389EF2993CF8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ARPG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
